@@ -132,10 +132,3 @@ Contributions are welcome! Feel free to fork and improve the project.
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-GitHub: https://github.com/yourusername
